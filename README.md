@@ -29,9 +29,9 @@ Welcome to my **50 Days of Coding Challenge**, where I aim to solve **two coding
 | Day 3 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Perfect Number](https://leetcode.com/problems/perfect-number/) | [📁 Day 3](./Day%203/) |
 | Day 4 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [📁 Day 4](./Day%204/) |
 | Day 5 | [Palindrome Linked List](https://leetcode.com/problems/linked-list-cycle/) | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [📁 Day 5](./Day%205/)    |
-| Day 6 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)                 | [Happy Number](https://leetcode.com/problems/happy-number/description/)                  | [📁 Day 6](./Day%206/)    |
-| Day 7 | [Rotate List](https://leetcode.com/problems/rotate-list/description/)                 | [Plus One](https://leetcode.com/problems/plus-one/description/)                   | [📁 Day 7](./Day%207/)    |
-| Day 8 | Stay Tuned                 | Stay Tuned                   | [📁 Day 8]()    |
+| Day 6 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)| [Happy Number](https://leetcode.com/problems/happy-number/) | [📁 Day 6](./Day%206/)    |
+| Day 7 | [Rotate List](https://leetcode.com/problems/rotate-list/)| [Plus One](https://leetcode.com/problems/plus-one/) | [📁 Day 7](./Day%207/)    |
+| Day 8 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)| [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)| [📁 Day 8](./Day%208/)    |
 | Day 9 | Stay Tuned                 | Stay Tuned                   | [📁 Day 9]()    |
 | Day 10 | Stay Tuned                | Stay Tuned                   | [📁 Day 10]()   |
 | Day 11 | Stay Tuned                | Stay Tuned                   | [📁 Day 11]()   |
