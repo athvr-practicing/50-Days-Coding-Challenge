@@ -32,7 +32,7 @@ Welcome to my **50 Days of Coding Challenge**, where I aim to solve **two coding
 | Day 6 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)| [Happy Number](https://leetcode.com/problems/happy-number/) | [📁 Day 6](./Day%206/)    |
 | Day 7 | [Rotate List](https://leetcode.com/problems/rotate-list/)| [Plus One](https://leetcode.com/problems/plus-one/) | [📁 Day 7](./Day%207/)    |
 | Day 8 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)| [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)| [📁 Day 8](./Day%208/)    |
-| Day 9 | Stay Tuned                 | Stay Tuned                   | [📁 Day 9]()    |
+| Day 9 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)| [Nth Digit](https://leetcode.com/problems/nth-digit/)| [📁 Day 9](./Day%209/)    |
 | Day 10 | Stay Tuned                | Stay Tuned                   | [📁 Day 10]()   |
 | Day 11 | Stay Tuned                | Stay Tuned                   | [📁 Day 11]()   |
 | Day 12 | Stay Tuned                | Stay Tuned                   | [📁 Day 12]()   |
