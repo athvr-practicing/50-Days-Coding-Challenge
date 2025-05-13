@@ -36,7 +36,7 @@ Welcome to my **50 Days of Coding Challenge**, where I aim to solve **two coding
 | Day 10 | [Delete The Middle Node Of The Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)| [📁 Day 10](./Day%2010/)   |
 | Day 11 | [Remove Nth Node From The End Of The List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)| [📁 Day 11](./Day%2011/)   |
 | Day 12 |[Insert Greatest Common Divisor In Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/)|[Count Odd Numbers In An Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)| [📁 Day 12](./Day%2012/)   |
-| Day 13 | Stay Tuned                | Stay Tuned                   | [📁 Day 13]()   |
+| Day 13 |[Remove Duplicates From Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[Sign Of The Product Of An Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)| [📁 Day 13](./Day%2013/)   |
 | Day 14 | Stay Tuned                | Stay Tuned                   | [📁 Day 14]()   |
 | Day 15 | Stay Tuned                | Stay Tuned                   | [📁 Day 15]()   |
 | Day 16 | Stay Tuned                | Stay Tuned                   | [📁 Day 16]()   |
