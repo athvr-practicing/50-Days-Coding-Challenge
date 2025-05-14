@@ -37,7 +37,7 @@ Welcome to my **50 Days of Coding Challenge**, where I aim to solve **two coding
 | Day 11 | [Remove Nth Node From The End Of The List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)| [📁 Day 11](./Day%2011/)   |
 | Day 12 |[Insert Greatest Common Divisor In Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/)|[Count Odd Numbers In An Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)| [📁 Day 12](./Day%2012/)   |
 | Day 13 |[Remove Duplicates From Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[Sign Of The Product Of An Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)| [📁 Day 13](./Day%2013/)   |
-| Day 14 | Stay Tuned                | Stay Tuned                   | [📁 Day 14]()   |
+| Day 14 |[Partition List](https://leetcode.com/problems/partition-list/)|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [📁 Day 14](./Day%2014/)   |
 | Day 15 | Stay Tuned                | Stay Tuned                   | [📁 Day 15]()   |
 | Day 16 | Stay Tuned                | Stay Tuned                   | [📁 Day 16]()   |
 | Day 17 | Stay Tuned                | Stay Tuned                   | [📁 Day 17]()   |
