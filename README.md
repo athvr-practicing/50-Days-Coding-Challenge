@@ -42,7 +42,7 @@ Welcome to my **50 Days of Coding Challenge**, where I aim to solve **two coding
 | Day 16 |[Delete Node In A Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Sum Of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)| [📁 Day 16](./Day%2016/)   |
 | Day 17 |[Min Stack](https://leetcode.com/problems/min-stack/)|[Two Sum](https://leetcode.com/problems/two-sum/)| [📁 Day 17](./Day%2017/)   |
 | Day 18 |[Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [📁 Day 18](./Day%2018/)   |
-| Day 19 | Stay Tuned                | Stay Tuned                   | [📁 Day 19]()   |
+| Day 19 |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [📁 Day 19](./Day%2019/)   |
 | Day 20 | Stay Tuned                | Stay Tuned                   | [📁 Day 20]()   |
 | Day 21 | Stay Tuned                | Stay Tuned                   | [📁 Day 21]()   |
 | Day 22 | Stay Tuned                | Stay Tuned                   | [📁 Day 22]()   |
