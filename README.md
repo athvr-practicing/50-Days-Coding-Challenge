@@ -44,7 +44,7 @@ Welcome to my **50 Days of Coding Challenge**, where I aim to solve **two coding
 | Day 18 |[Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [📁 Day 18](./Day%2018/)   |
 | Day 19 |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [📁 Day 19](./Day%2019/)   |
 | Day 20 |[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Find Greatest Common Divisor Of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/)| [📁 Day 20](./Day%2020/)   |
-| Day 21 | Stay Tuned                | Stay Tuned                   | [📁 Day 21]()   |
+| Day 21 |[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)| [📁 Day 21](./Day%2021/)   |
 | Day 22 | Stay Tuned                | Stay Tuned                   | [📁 Day 22]()   |
 | Day 23 | Stay Tuned                | Stay Tuned                   | [📁 Day 23]()   |
 | Day 24 | Stay Tuned                | Stay Tuned                   | [📁 Day 24]()   |
