@@ -46,7 +46,7 @@ Welcome to my **50 Days of Coding Challenge**, where I aim to solve **two coding
 | Day 20 |[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Find Greatest Common Divisor Of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/)| [📁 Day 20](./Day%2020/)   |
 | Day 21 |[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)| [📁 Day 21](./Day%2021/)   |
 | Day 22 |[Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)|[Majority Element](https://leetcode.com/problems/majority-element/)| [📁 Day 22](./Day%2022/)   |
-| Day 23 | Stay Tuned                | Stay Tuned                   | [📁 Day 23]()   |
+| Day 23 |[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [📁 Day 23](./Day%2023/)   |
 | Day 24 | Stay Tuned                | Stay Tuned                   | [📁 Day 24]()   |
 | Day 25 | Stay Tuned                | Stay Tuned                   | [📁 Day 25]()   |
 | Day 26 | Stay Tuned                | Stay Tuned                   | [📁 Day 26]()   |
