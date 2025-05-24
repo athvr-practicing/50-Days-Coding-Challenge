@@ -48,7 +48,7 @@ Welcome to my **50 Days of Coding Challenge**, where I aim to solve **two coding
 | Day 22 |[Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)|[Majority Element](https://leetcode.com/problems/majority-element/)| [📁 Day 22](./Day%2022/)   |
 | Day 23 |[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [📁 Day 23](./Day%2023/)   |
 | Day 24 |[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)| [📁 Day 24](./Day%2024/)   |
-| Day 25 | Stay Tuned                | Stay Tuned                   | [📁 Day 25]()   |
+| Day 25 |[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[Rotate Array](https://leetcode.com/problems/rotate-array/)| [📁 Day 25](./Day%2025/)   |
 | Day 26 | Stay Tuned                | Stay Tuned                   | [📁 Day 26]()   |
 | Day 27 | Stay Tuned                | Stay Tuned                   | [📁 Day 27]()   |
 | Day 28 | Stay Tuned                | Stay Tuned                   | [📁 Day 28]()   |
