@@ -49,7 +49,7 @@ Welcome to my **50 Days of Coding Challenge**, where I aim to solve **two coding
 | Day 23 |[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [📁 Day 23](./Day%2023/)   |
 | Day 24 |[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)| [📁 Day 24](./Day%2024/)   |
 | Day 25 |[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[Rotate Array](https://leetcode.com/problems/rotate-array/)| [📁 Day 25](./Day%2025/)   |
-| Day 26 | Stay Tuned                | Stay Tuned                   | [📁 Day 26]()   |
+| Day 26 |[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Find First And Last Position Of Element In Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| [📁 Day 26](./Day%2026/)   |
 | Day 27 | Stay Tuned                | Stay Tuned                   | [📁 Day 27]()   |
 | Day 28 | Stay Tuned                | Stay Tuned                   | [📁 Day 28]()   |
 | Day 29 | Stay Tuned                | Stay Tuned                   | [📁 Day 29]()   |
