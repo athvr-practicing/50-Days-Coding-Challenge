@@ -50,7 +50,7 @@ Welcome to my **50 Days of Coding Challenge**, where I aim to solve **two coding
 | Day 24 |[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)| [📁 Day 24](./Day%2024/)   |
 | Day 25 |[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[Rotate Array](https://leetcode.com/problems/rotate-array/)| [📁 Day 25](./Day%2025/)   |
 | Day 26 |[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Find First And Last Position Of Element In Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| [📁 Day 26](./Day%2026/)   |
-| Day 27 | Stay Tuned                | Stay Tuned                   | [📁 Day 27]()   |
+| Day 27 |[Path Sum](https://leetcode.com/problems/path-sum/)|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| [📁 Day 27](./Day%2027/)   |
 | Day 28 | Stay Tuned                | Stay Tuned                   | [📁 Day 28]()   |
 | Day 29 | Stay Tuned                | Stay Tuned                   | [📁 Day 29]()   |
 | Day 30 | Stay Tuned                | Stay Tuned                   | [📁 Day 30]()   |
