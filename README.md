@@ -54,8 +54,8 @@ Welcome to my **50 Days of Coding Challenge**, where I aim to solve **two coding
 | Day 28 |[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Number of Subarrays With LCM Equal to K](https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k/)| [📁 Day 28](./Day%2028/)   |
 | Day 29 |[Sum Of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Kth Largest Element In An Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)| [📁 Day 29](./Day%2029/)   |
 | Day 30 |[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)| [📁 Day 30](./Day%2030/)   |
-| Day 31 | Stay Tuned                | Stay Tuned                   | [📁 Day 31]()   |
-| Day 32 | Stay Tuned                | Stay Tuned                   | [📁 Day 32]()   |
+| Day 31 |[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)| [📁 Day 31](./Day%2031/)   |
+| Day 32 |[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Rotate Image](https://leetcode.com/problems/rotate-image/)| [📁 Day 32](./Day%2032/)   |
 | Day 33 | Stay Tuned                | Stay Tuned                   | [📁 Day 33]()   |
 | Day 34 | Stay Tuned                | Stay Tuned                   | [📁 Day 34]()   |
 | Day 35 | Stay Tuned                | Stay Tuned                   | [📁 Day 35]()   |
