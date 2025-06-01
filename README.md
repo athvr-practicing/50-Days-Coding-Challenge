@@ -56,7 +56,7 @@ Welcome to my **50 Days of Coding Challenge**, where I aim to solve **two coding
 | Day 30 |[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)| [📁 Day 30](./Day%2030/)   |
 | Day 31 |[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)| [📁 Day 31](./Day%2031/)   |
 | Day 32 |[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Rotate Image](https://leetcode.com/problems/rotate-image/)| [📁 Day 32](./Day%2032/)   |
-| Day 33 | Stay Tuned                | Stay Tuned                   | [📁 Day 33]()   |
+| Day 33 |[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome/)| [📁 Day 33](./Day%2033/)   |
 | Day 34 | Stay Tuned                | Stay Tuned                   | [📁 Day 34]()   |
 | Day 35 | Stay Tuned                | Stay Tuned                   | [📁 Day 35]()   |
 | Day 36 | Stay Tuned                | Stay Tuned                   | [📁 Day 36]()   |
