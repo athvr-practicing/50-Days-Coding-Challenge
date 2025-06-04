@@ -59,7 +59,7 @@ Welcome to my **50 Days of Coding Challenge**, where I aim to solve **two coding
 | Day 33 |[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome/)| [📁 Day 33](./Day%2033/)   |
 | Day 34 |[Flatten Binary Tree To Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Length Of Last Word](https://leetcode.com/problems/length-of-last-word/)| [📁 Day 34](./Day%2034/)   |
 | Day 35 |[Lowest Common Ancestor Of A Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Number Of Segments In A String](https://leetcode.com/problems/number-of-segments-in-a-string/)| [📁 Day 35](./Day%2035/)   |
-| Day 36 | Stay Tuned                | Stay Tuned                   | [📁 Day 36]()   |
+| Day 36 |[Sum Root To Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Reverse Vowels Of A String](https://leetcode.com/problems/reverse-vowels-of-a-string/)| [📁 Day 36](./Day%2036/)   |
 | Day 37 | Stay Tuned                | Stay Tuned                   | [📁 Day 37]()   |
 | Day 38 | Stay Tuned                | Stay Tuned                   | [📁 Day 38]()   |
 | Day 39 | Stay Tuned                | Stay Tuned                   | [📁 Day 39]()   |
