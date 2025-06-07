@@ -62,7 +62,7 @@ Welcome to my **50 Days of Coding Challenge**, where I aim to solve **two coding
 | Day 36 |[Sum Root To Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Reverse Vowels Of A String](https://leetcode.com/problems/reverse-vowels-of-a-string/)| [📁 Day 36](./Day%2036/)   |
 | Day 37 |[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[Find First Palindromic String In The Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)| [📁 Day 37](./Day%2037/)   |
 | Day 38 |[Search In A Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| [📁 Day 38](./Day%2038/)   |
-| Day 39 | Stay Tuned                | Stay Tuned                   | [📁 Day 39]()   |
+| Day 39 |[Insert Into A Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)| [📁 Day 39](./Day%2039/)   |
 | Day 40 | Stay Tuned                | Stay Tuned                   | [📁 Day 40]()   |
 | Day 41 | Stay Tuned                | Stay Tuned                   | [📁 Day 41]()   |
 | Day 42 | Stay Tuned                | Stay Tuned                   | [📁 Day 42]()   |
