@@ -65,7 +65,7 @@ Welcome to my **50 Days of Coding Challenge**, where I aim to solve **two coding
 | Day 39 |[Insert Into A Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)| [📁 Day 39](./Day%2039/)   |
 | Day 40 |[Lowest Common Ancestor Of A Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Rotate String](https://leetcode.com/problems/rotate-string/)| [📁 Day 40](./Day%2040/)   |
 | Day 41 |[Delete Node In A BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| [📁 Day 41](./Day%2041/)   |
-| Day 42 | Stay Tuned                | Stay Tuned                   | [📁 Day 42]()   |
+| Day 42 | Stay Tuned                | Stay Tuned                   | [📁 Day 42](./Day%2042/)   |
 | Day 43 | Stay Tuned                | Stay Tuned                   | [📁 Day 43]()   |
 | Day 44 | Stay Tuned                | Stay Tuned                   | [📁 Day 44]()   |
 | Day 45 | Stay Tuned                | Stay Tuned                   | [📁 Day 45]()   |
