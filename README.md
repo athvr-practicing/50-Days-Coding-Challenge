@@ -66,7 +66,7 @@ Welcome to my **50 Days of Coding Challenge**, where I aim to solve **two coding
 | Day 40 |[Lowest Common Ancestor Of A Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Rotate String](https://leetcode.com/problems/rotate-string/)| [📁 Day 40](./Day%2040/)   |
 | Day 41 |[Delete Node In A BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| [📁 Day 41](./Day%2041/)   |
 | Day 42 |[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Reverse Words In A String](https://leetcode.com/problems/reverse-words-in-a-string/)| [📁 Day 42](./Day%2042/)   |
-| Day 43 | Stay Tuned                | Stay Tuned                   | [📁 Day 43]()   |
+| Day 43 |[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)| [📁 Day 43](./Day%2043/)   |
 | Day 44 | Stay Tuned                | Stay Tuned                   | [📁 Day 44]()   |
 | Day 45 | Stay Tuned                | Stay Tuned                   | [📁 Day 45]()   |
 | Day 46 | Stay Tuned                | Stay Tuned                   | [📁 Day 46]()   |
