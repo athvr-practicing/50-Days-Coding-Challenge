@@ -69,7 +69,7 @@ Welcome to my **50 Days of Coding Challenge**, where I aim to solve **two coding
 | Day 43 |[Kth Smallest Element In A BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)| [📁 Day 43](./Day%2043/)   |
 | Day 44 |[Convert Sorted List To Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)|[Maximum Number Of Vowels In A Substring Of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)| [📁 Day 44](./Day%2044/)   |
 | Day 45 |[Range Sum Of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Minimize The Maximum Difference Of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/)| [📁 Day 45](./Day%2045/)   |
-| Day 46 | Stay Tuned                | Stay Tuned                   | [📁 Day 46]()   |
+| Day 46 |[Find Center Of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/)|[Prime Number Of Set Bits In Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)| [📁 Day 46](./Day%2046/)   |
 | Day 47 | Stay Tuned                | Stay Tuned                   | [📁 Day 47]()   |
 | Day 48 | Stay Tuned                | Stay Tuned                   | [📁 Day 48]()   |
 | Day 49 | Stay Tuned                | Stay Tuned                   | [📁 Day 49]()   |
