@@ -72,7 +72,7 @@ Welcome to my **50 Days of Coding Challenge**, where I aim to solve **two coding
 | Day 46 |[Find Center Of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/)|[Prime Number Of Set Bits In Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)| [📁 Day 46](./Day%2046/)   |
 | Day 47 |[Number Of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)|[Number Of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [📁 Day 47](./Day%2047/)   |
 | Day 48 |[Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/)|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| [📁 Day 48](./Day%2048/)   |
-| Day 49 | Stay Tuned                | Stay Tuned                   | [📁 Day 49]()   |
+| Day 49 |[Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/)|[Sort Colors](https://leetcode.com/problems/sort-colors/)| [📁 Day 49](./Day%2049/)   |
 | Day 50 | Stay Tuned                | Stay Tuned                   | [📁 Day 50]()   |
 
 ---
