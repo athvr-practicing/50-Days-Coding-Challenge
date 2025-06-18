@@ -87,7 +87,9 @@ Welcome to my **50 Days of Coding Challenge**, where I aim to solve **two coding
 - Recursion  
 - Searching & Sorting  
 - Bit Manipulation  
-- Time Complexity Optimization  
+- Time Complexity Optimization
+- Trees
+- Graphs  
 
 ---
 
