@@ -73,7 +73,7 @@ Welcome to my **50 Days of Coding Challenge**, where I aim to solve **two coding
 | Day 47 |[Number Of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)|[Number Of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [📁 Day 47](./Day%2047/)   |
 | Day 48 |[Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/)|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| [📁 Day 48](./Day%2048/)   |
 | Day 49 |[Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/)|[Sort Colors](https://leetcode.com/problems/sort-colors/)| [📁 Day 49](./Day%2049/)   |
-| Day 50 | Stay Tuned                | Stay Tuned                   | [📁 Day 50]()   |
+| Day 50 |[Find The Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[Break A Palindrome](https://leetcode.com/problems/break-a-palindrome/)| [📁 Day 50](./Day%2050/)   |
 
 ---
 
